@@ -13,7 +13,7 @@
     "react-dom": "^16.12.0",
     "react-gif-player": "^0.4.2",
     "react-particles-js": "^2.7.1",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "styled-components": "^5.0.1",
     "typewriter-effect": "^2.12.2"
   },
